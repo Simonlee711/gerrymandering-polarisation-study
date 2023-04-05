@@ -8,6 +8,8 @@
 
 ## Authors
 
-- Camilla de Pourbaix (camilladepourbaix@college.harvard.edu): Ownership of project study & for the writing at hand
+Camilla de Pourbaix (camilladepourbaix@college.harvard.edu): 
+- Ownership of project study & for the writing at hand
 
-- Simon Lee (simonlee711@g.ucla.edu): Responsible for data collection/clean-up, producing figures, & running analysis 
+Simon Lee (simonlee711@g.ucla.edu): 
+- Responsible for data collection/clean-up, producing figures, & running analysis 
