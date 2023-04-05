@@ -4,6 +4,11 @@
 
 ## Data
 
+- DW-Nominate Score Data: [https://voteview.com/data](https://voteview.com/data)
+
+
+https://history.house.gov/Institution/Election-Statistics/
+
 ## Methods
 
 ## Authors
