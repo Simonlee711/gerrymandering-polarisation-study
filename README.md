@@ -4,6 +4,10 @@
 
 ## Data
 
+- DW-Nominate Score Data: [here](https://voteview.com/data)
+
+- Raw Election Results: [here](https://history.house.gov/Institution/Election-Statistics/)
+
 ## Methods
 
 ## Authors
