@@ -11,6 +11,22 @@ This paper explores the increasing polarization in the political ideology among 
 - Raw Election Results: [here](https://history.house.gov/Institution/Election-Statistics/)
 
 ## Methods
+### Data Set 1: Realtime Nominate Ideology and Related Data
+- **Purpose**: To quantify the political ideology of House of Representatives (HOR) members.
+- **Method**: Utilizes the DW-NOMINATE score method, a mathematical approach developed by Professor Jeffrey M. Lewis at UCLA.
+- **Key Variable**: DW-NOMINATE score, where a score of 0.3 or above indicates polarized ideology.
+- **Time Frame**: 2010 to 2020 (111th to 116th Congress).
+
+### Data Set 2: Election Statistics
+- **Purpose**: To provide raw election data showing the results of HOR elections.
+- **Data**: Includes every House of Representatives election result by year, state, and district from 2010-2020.
+- **Key Variable**: Voting count for each district in each state, categorized by Democrat or Republican votes.
+- **Source**: Government-counted ballots.
+
+### Analysis Approach
+- **Data Merging**: Merges the two datasets by state, district, and year to create a combined dataset with a unique key for each data point.
+- **Correlation Study**: Aims to observe voting pattern shifts between 2010-2020 and identify correlations between gerrymandering and political polarization in the HOR.
+- **Efficiency Gap Calculation**: Uses a mathematical equation to determine if a state has been gerrymandered, with an efficiency gap of over 7% indicating a gerrymandered state.
 
 ## Authors
 
